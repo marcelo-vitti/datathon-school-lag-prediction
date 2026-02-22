@@ -1,6 +1,11 @@
-pandas
-matplotlib
-seaborn
-scikit-learn
-lightgbm
-joblib
+pandas==3.0.1
+matplotlib==3.10.8
+seaborn==0.13.2
+lightgbm==4.6.0
+joblib==1.5.3
+fastapi==0.129.2
+uvicorn==0.41.0
+pydantic==2.12.5
+scikit-learn==1.8.0
+setuptools==82.0.0
+requests==2.32.5
